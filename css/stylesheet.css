@@ -29,7 +29,7 @@ h2 {
 }
 
 a {
-	color: cyan;
+	color: green;
 }
 
 /* Header */
@@ -60,7 +60,7 @@ header {
 }
 
 header h1 {
-	color: white;
+	color: green;
 	padding-top: 50px;
 }
 
